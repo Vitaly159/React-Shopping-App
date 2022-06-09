@@ -1,0 +1,25 @@
+.wrapper{
+  width: 100%;
+}
+
+table{
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+  border-spacing: 0;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+thead{
+  display: inline-block;
+  width: 100%;
+  top: 0;
+}
+
+tbody{
+  height: 500px;
+  display: inline-block;
+  width: 100%;
+  overflow: auto;
+}

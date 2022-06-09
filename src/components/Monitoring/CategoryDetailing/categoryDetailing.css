@@ -1,0 +1,27 @@
+.schedule-category{
+    margin-left: 2px;
+    border: 1px black solid;
+    border-radius: 10px;
+    overflow-y: auto;
+    box-sizing: border-box;
+    white-space: nowrap;
+}
+
+.schedule-category-header{
+    border-bottom: 1px gray solid;
+    white-space: nowrap;
+    padding: 10px;
+}
+
+.scale-category-block{
+    display: block;
+    margin-bottom: 3px;
+}
+
+.scale-category{ 
+    border: 1px black solid;
+    min-height: 15px;
+    width: 3px;
+    border-radius: 3px;
+    background-color: blanchedalmond;
+}

@@ -1,0 +1,9 @@
+.scale{
+  min-width: 35px;
+  margin: 0 4px;
+  text-align: center;
+}
+
+.scale p{
+  margin: 5px 0;
+}

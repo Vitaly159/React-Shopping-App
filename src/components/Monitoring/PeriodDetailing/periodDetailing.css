@@ -1,0 +1,49 @@
+.detailing-header span{
+    position: relative;
+    height: 20%;
+    box-sizing: border-box;
+    top: 1px;
+}
+
+.detailing-header select{
+    font-size: 16px;
+    background-color: rgb(244, 244, 244);
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.btnChangeYear{
+    border: 1px gray solid;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgb(233, 233, 233);
+    margin: 10px;
+}
+
+.btnChangeYear:hover{
+    background-color: rgb(211, 211, 211);
+}
+
+.btn-back button{
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    border-radius: 10px 10px 0 0;
+    background-color: transparent;
+    display: inline-block;
+    font-weight: 500;
+    width: 100%;
+    height: 100%;  
+}
+
+.btn-back{
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+}
+
+.btn-back:hover{
+    background-color: rgb(244, 244, 244);
+    cursor: pointer;
+}

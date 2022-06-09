@@ -1,0 +1,12 @@
+.week-scale{
+    min-width: 60px;
+    margin: 0 5px;
+    text-align: center;
+}
+
+.week-scale p{
+    min-width: 60px;
+    margin: 0 5px;
+    text-align: center;
+    font-size: 12px;
+}

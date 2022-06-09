@@ -1,0 +1,17 @@
+th{
+  border: 1px gray solid;
+}
+
+h4{
+    margin: 5px 0;
+}
+
+.selectors{
+    border: 1px gray solid;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+select:hover{
+    background-color: rgb(235, 235, 235);
+}

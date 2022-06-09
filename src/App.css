@@ -1,0 +1,19 @@
+/* body{
+  background-color: rgb(244, 244, 244);
+} */
+
+.App {
+  width: 100%;
+  padding: 20px 70px;
+  box-sizing: border-box;
+  width: 1300px;
+}
+
+h1{
+  margin-bottom: 30px;
+  color: rgb(141, 141, 141);
+}
+
+.content{
+  width: 1300px;
+}

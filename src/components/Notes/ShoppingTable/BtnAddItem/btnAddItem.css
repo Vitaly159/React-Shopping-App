@@ -1,0 +1,26 @@
+.addBtn{
+    font-size: 16px;
+    background: transparent;
+    border: none;
+    padding: 0;
+    color: rgb(114, 171, 2);
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.addBtn:hover{
+    color: green;
+}
+
+.noColorBtn{
+    font-size: 16px;
+    background: transparent;
+    border: none;
+    padding: 0;
+    color: rgb(194, 194, 194);
+    font-weight: 700;
+}
+
+.chosenDate{
+margin: 0 0 20px;
+}

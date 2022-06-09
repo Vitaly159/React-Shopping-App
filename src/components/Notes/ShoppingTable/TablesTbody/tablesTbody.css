@@ -1,0 +1,43 @@
+.cell{
+    border: 1px gray solid;
+    padding: 0;
+    width: 272px;
+}
+
+.cell input{
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.cell input:hover{
+    background-color: rgb(233, 233, 233);
+    cursor: pointer;   
+}
+
+.delete{
+    color: red;
+    cursor: pointer;
+    width: 12px;
+}
+
+.delete:hover{
+    font-weight: 600;
+}
+
+.noItems{
+    display: inline;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.cellDate{
+    text-align: center;
+    border: 1px gray solid;
+    padding: 0;
+    width: 152px;
+}
